@@ -17,12 +17,12 @@ Limon v3 scripti, ürün tanıtımlarınızı yapıp satışlarını gerçekleş
   12. İletişim (yönetim paneline iletilir)
 
 ## Kurulum
- Bir veritabanı oluşturun.
- Verilen v3urun.sql dosyasını veritabanından içe aktarın.
- config.php dosyasını bir metin editörü ile açarak veritabanı bilgilerinizi girin.
- Tüm dosyaları sunucunuza atın.
- Yönetim paneline giriş yaparak üst menüde bulunan Genel Ayarlara girin.
- Sitenizin baþlýk, anahtar kelime, açýklama, site adresi vb. bölümleri düzenleyerek kurulum iþlemini tamamlayýn.
+   Bir veritabanı oluşturun.
+   Verilen v3urun.sql dosyasını veritabanından içe aktarın.
+   config.php dosyasını bir metin editörü ile açarak veritabanı bilgilerinizi girin.
+   Tüm dosyaları sunucunuza atın.
+   Yönetim paneline giriş yaparak üst menüde bulunan Genel Ayarlara girin.
+   Sitenizin baþlýk, anahtar kelime, açýklama, site adresi vb. bölümleri düzenleyerek kurulum iþlemini tamamlayýn.
 
 
 Kullanıcı Adı: admin
