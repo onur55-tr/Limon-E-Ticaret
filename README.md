@@ -25,8 +25,7 @@ Limon v3 scripti, ürün tanıtımlarınızı yapıp satışlarını gerçekleş
 6. Sitenizin baþlýk, anahtar kelime, açýklama, site adresi vb. bölümleri düzenleyerek kurulum iþlemini tamamlayýn.
 
 
-Kullanıcı Adı: admin
-Şifre: wmscripti.com
+# Kullanıcı Adı: admin
+# Şifre: wmscripti.com
 
-Slaytta Bulunan Yazılar
-Scriptin slayt bölümünde görsellerin üzerinde yazılar bulunmakta. Bu yazıları home.php dosyası üzerinden değiştirebilirsiniz.
+# Slaytta bulunan yazılar scriptin slayt bölümünde görsellerin üzerinde yazılar bulunmakta. Bu yazıları home.php dosyası üzerinden değiştirebilirsiniz.
